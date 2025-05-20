@@ -115,8 +115,9 @@ footer {
  body {
   background-image: url('pomodoro website background.png');
   background-repeat: no-repeat;
+  background-position: center;
   background-attachment: fixed; 
-  background-size: 1000% 1000%;
+  background-size: cover;
 }
 
 .danger {
